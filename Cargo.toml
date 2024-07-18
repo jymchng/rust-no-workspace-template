@@ -27,3 +27,15 @@ itertools = "0.10.5"
 rayon = "1.7.0"
 bcs = "0.1.5"
 chrono = "0.4.26"
+
+[profile.dev]
+opt-level = 1
+debug = true
+overflow-checks = true
+lto = false
+
+[profile.release]
+opt-level = 3
+debug = false
+overflow-checks = true
+lto = true
