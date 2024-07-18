@@ -85,11 +85,9 @@ Welcome to the `rust-no-workspace-template` Rust project! This template provides
 4. [Profiles](#profiles)
     - [Development Profile](#development-profile)
     - [Release Profile](#release-profile)
-5. [Package Metadata](#package-metadata)
 6. [Usage Instructions](#usage-instructions)
 7. [Contributing](#contributing)
 8. [License](#license)
-9. [Additional Resources](#additional-resources)
 
 ## Project Overview
 
